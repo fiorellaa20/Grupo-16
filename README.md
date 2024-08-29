@@ -27,6 +27,8 @@
 
 ## Definición de la problemática:
 
+Deterioro de la movilidad física en personas por amputación del miembro inferior, arriba de la rodilla.
+
 
 ## Estado del arte científico:
 
