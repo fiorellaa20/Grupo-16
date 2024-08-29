@@ -19,6 +19,9 @@
 
 ## Datos del caso médico:
 
+## Diagrama de Ishikawa:
+![Diagrama de Ishikawa](https://github.com/user-attachments/assets/bc94a3d3-e7e2-44cb-923e-6dac725367df)
+
    
 
 
